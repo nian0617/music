@@ -1,5 +1,5 @@
 import music from "./music";
-import uset from "./user";
+import user from "./user";
 
 export default{
     user,
